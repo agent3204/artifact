@@ -1,1 +1,1 @@
-This supports the folder "Programs"
+This file supports "Programs" folder.
